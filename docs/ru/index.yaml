@@ -4,4 +4,6 @@ links:
   - title: С чего начать
     href: how_to_start.md
     description: Освойтесь в интерфейсе системы
-
+  - title: Функциональные возможности
+    href: main_page.md
+    description: Познакомьтесь с функциональными возможностями платформы
